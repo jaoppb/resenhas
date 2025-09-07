@@ -6,3 +6,4 @@ Links para as resenhas:
 
 -   [Big Ball of Mud](./big-ball-of-mud.md)
 -   [Microserviços](./microservices.md)
+-   [No Silver Bullet](./no-silver-bullet.md)
