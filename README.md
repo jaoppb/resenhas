@@ -8,3 +8,4 @@ Links para as resenhas:
 -   [Microserviços](./microservices.md)
 -   [No Silver Bullet](./no-silver-bullet.md)
 -   [Modularization](./modularization.md)
+-   [Software Architecture](./software-architecture.md)
