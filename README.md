@@ -9,3 +9,4 @@ Links para as resenhas:
 -   [No Silver Bullet](./no-silver-bullet.md)
 -   [Modularization](./modularization.md)
 -   [Software Architecture](./software-architecture.md)
+-   [Hotspot Patterns](./hotspot-patterns.md)
