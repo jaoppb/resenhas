@@ -10,3 +10,4 @@ Links para as resenhas:
 -   [Modularization](./modularization.md)
 -   [Software Architecture](./software-architecture.md)
 -   [Hotspot Patterns](./hotspot-patterns.md)
+-   [Domain Driven Design Reference](./ddd-reference.md)
