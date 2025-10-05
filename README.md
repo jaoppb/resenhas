@@ -11,3 +11,4 @@ Links para as resenhas:
 -   [Software Architecture](./software-architecture.md)
 -   [Hotspot Patterns](./hotspot-patterns.md)
 -   [Domain Driven Design Reference](./ddd-reference.md)
+-   [Managin Technical Debt](./technical-debt.md)
