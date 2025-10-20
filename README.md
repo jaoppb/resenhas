@@ -13,3 +13,4 @@ Links para as resenhas:
 -   [Domain Driven Design Reference](./ddd-reference.md)
 -   [Managin Technical Debt](./technical-debt.md)
 -   [Documenting Architecture Decisions](./architecture-decisions.md)
+-   [Hexagonal Architecture](./hexagonal-architecture.md)
